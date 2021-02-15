@@ -3,4 +3,5 @@ This project uses Excel to organize, sort and analyzes Kickstarter crowd funding
 
 ## Visualizations 
 We can see by looking at our new chart that the months of May and June both have a greater success rate.
-![Outcomes Based on Launch Date](/Resources/Outcomes Based on Launch Date.png)
+
+![Outcomes Based on Launch Date](/Resources/Outcomes%20Based%20on%20Launch%20Date.png)
