@@ -10,7 +10,7 @@ We can see by looking at the bar chart that the Theater category has the most nu
 ![Parent Category Outcomes Chart](/Resources/parent%20category%20outcomes%20chart.png)
 
 When we analyze the sub category data for Great Britain, the bar chart shows Plays is the most successful.
-![Subcategory GB-Chart](/Resources/subcategory%20gb-chart.png)
+![Subcategory GB-Chart](/Resources/subcategory%20gb-chart2.png)
 
 When we analyze the sub category data for US, the bar chart shows Plays is the most successful.
 ![Subcategory US Chart](/Resources/subcategory-us%20chart.png)
