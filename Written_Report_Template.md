@@ -11,12 +11,12 @@ Knowing how different campaigns fared in relation to their launch dates and thei
 ### Analysis of Outcomes Based on Launch Date
 We create a pivot table from the Kickstarter worksheet and filter it based on "Years" and on "Parent Category" to only show data for "theater". We also filter the column labels to only show "successful", "failed" and "canceled". We visualize the relationship between outcomes and launch month by creating a line chart from the pivot table. 
 
-IMAGE
+![outcomes based on launch date](/Resources/outcomes%20based%20on%20launch%20date.png)
 
 ### Analysis of Outcomes Based on Goals
 We visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. We create dollar-amount ranges so projects can be grouped based on their goal amount. We populate the "Total Projects" column with the number of successful, failed, and canceled projects for each row. We also calculate the percentage of successful, failed, and canceled projects for each row. We create a line chart to visualize the relationship between the goal-amount ranges and the percentage of successful, failed, or canceled projects.
 
-IMAGE 
+![Outcomes Based on Goal Chart](/Resources/Outcomes%20Based%20on%20Goal%20Chart.png)
 
 ### Challenges and Difficulties Encountered
 - Initially it was a bit tricky to figure out the correct syntax for the COUNTIF formula.
