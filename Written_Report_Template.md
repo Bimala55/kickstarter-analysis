@@ -19,7 +19,9 @@ We visualize the percentage of successful, failed, and canceled plays based on t
 IMAGE 
 
 ### Challenges and Difficulties Encountered
-
+- Initially it was a bit tricky to figure out the correct syntax for the COUNTIF formula.
+- COUNTIF formula was used for creating the dollar-amount ranges for grouping the projects which was than converted into a pivot table. But, in the pivot table the Row Labels were not sorted automatically because "Less than 1000" and "5000 to 9999" were not in the proper positions. These rows had to be manually sorted to be in the correct ascending order. 
+- The current data has 0 cancelled plays but the sheet for the empty data still had to be created with the columns similar to successful and failed plays. Otherwise, the chart would not be generated correctly. 
 
 ## Results
 
