@@ -18,4 +18,4 @@ When we analyze the sub category data for US, the bar chart shows Plays is the m
 ## Recommendations
 - Louise should launch her campaign between May and July. 
 - Louise is asking for $10000 for her compaign which is more  than twice the average successful Kickstarter goal, so she should consider changing it to $5000.
- 
+- Louise should try to get play produced for less than £4,000 because this is outside of the range of outliers for amount pledged.
