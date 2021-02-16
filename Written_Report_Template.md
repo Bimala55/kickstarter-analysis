@@ -21,14 +21,22 @@ IMAGE
 ### Challenges and Difficulties Encountered
 - Initially it was a bit tricky to figure out the correct syntax for the COUNTIF formula.
 - COUNTIF formula was used for creating the dollar-amount ranges for grouping the projects which was than converted into a pivot table. But, in the pivot table the Row Labels were not sorted automatically because "Less than 1000" and "5000 to 9999" were not in the proper positions. These rows had to be manually sorted to be in the correct ascending order. 
-- The current data has 0 cancelled plays but the sheet for the empty data still had to be created with the columns similar to successful and failed plays. Otherwise, the chart would not be generated correctly. 
+- For outcomes based on goal the current data has 0 canceled plays but the sheet for the empty data still had to be created with the columns similar to successful and failed plays. Otherwise, the chart would not be generated correctly. 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### We can conclude the following from the Outcomes based on Launch Date:
+- Based on the pivot table and line chart May is the most common month for successful theater outcomes.  
+- Based on the pivot table and line chart May is also the most common month for failed theater outcomes.
 
-- What can you conclude about the Outcomes based on Goals?
+### We can conclude the following from the Outcomes based on Goals:
+- Hundred percentage of projects fail when the goal is between 45000 and 49999.
+- Most projects are successful when their goal is less than 1000.
 
-- What are some limitations of this dataset?
+### Limitations of this dataset:
+- When creating the pivot tables some amount of manual sorting and filtering is required. 
+- For outcomes based on goal there are no canceled plays. Perhaps if the dataset included more years we could find some patterns for canceled plays.
 
-- What are some other possible tables and/or graphs that we could create?
+### Some other possible tables and/or graphs that we could create:
+- Apart from line charts, we could also create bar charts.
+- We could create pivot table and graphs for theater outcome based on deadline
